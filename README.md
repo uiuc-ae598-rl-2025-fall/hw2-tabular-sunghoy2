@@ -44,6 +44,7 @@ You can do this by:
 6. Click the "Propose changes" button.
 7. Click the "Create pull request" button.
 8. Click the "Create pull request" button again on the next page.
+9. report and code update. edit for final pr.
 
 ## Resources
 
