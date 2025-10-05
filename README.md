@@ -45,6 +45,8 @@ You can do this by:
 7. Click the "Create pull request" button.
 8. Click the "Create pull request" button again on the next page.
 
+   Edit for final PR
+
 ## Resources
 
 Here are some resources that may be helpful:
